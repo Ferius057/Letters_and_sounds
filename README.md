@@ -28,5 +28,5 @@
  - [Author](https://vk.com/ferius_057)
 
 
-##Screenshot:
+## Screenshot:
 <a href='https://github.com/Ferius057/Letters_and_sounds' title=''><img style="width:100%" src='https://i.ibb.co/828tCKk/Screenshot-1.png' alt=''  /></a>
