@@ -13,7 +13,7 @@
 #### Linux:
 ```
 # Установка репозитория
-$ git clone https://github.com/Ferius057/Creating-Posts_VK.git
+$ git clone https://github.com/Ferius057/Letters_and_sounds.git
 
 # Устоновка прав
 $ chmod +x start.sh
