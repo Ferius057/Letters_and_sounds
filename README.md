@@ -12,7 +12,11 @@
 ## Usage:
 #### Linux:
 ```
-# Скоро...
+# Установка репозитория
+$ git clone https://github.com/Ferius057/Creating-Posts_VK.git
+
+$ Запуск
+$ ./start.sh
 ```
 #### Windows:
 ```
