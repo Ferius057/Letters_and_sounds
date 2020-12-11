@@ -29,4 +29,4 @@
 
 
 ##Screenshot:
-<a href='https://github.com/Ferius057/Letters_and_sounds' title=''><img style="width:100%" src='https://s8.hostingkartinok.com/uploads/images/2020/03/7ec92a705603effe0d072e1fffa9246a.jpg' alt=''  /></a>
+<a href='https://github.com/Ferius057/Letters_and_sounds' title=''><img style="width:100%" src='https://i.ibb.co/828tCKk/Screenshot-1.png' alt=''  /></a>
