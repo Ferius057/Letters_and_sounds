@@ -15,6 +15,9 @@
 # Установка репозитория
 $ git clone https://github.com/Ferius057/Creating-Posts_VK.git
 
+# Устоновка прав
+$ chmod +x start.sh
+
 $ Запуск
 $ ./start.sh
 ```
