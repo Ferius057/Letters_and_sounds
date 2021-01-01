@@ -31,7 +31,7 @@ public class Main {
                     sb.append("\nБуква \"").append(let).append("\" не имеет звука.");
                 else count = count + 1;
             }
-            sb.append("\n--------------------------------------");
+            sb.append("\n---------------------------------------");
             sb.append("\nБукв в слове: ").append(word.length()).append(".");
             sb.append("\nЗвуков в слове: ").append(count).append(".");
             System.out.println(sb.toString() + "\n\n\n");
